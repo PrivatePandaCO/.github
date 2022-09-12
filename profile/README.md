@@ -9,7 +9,7 @@ Building the software of tomorrow.
 - Never be late and never be early- We here hate traffic, and waiting more so!
 
 ### Timeline
-Give me a few years please, thanks.
+Give me a few years please, thanks; in the meanwhile, please sponsor me a website.
 
 ### People
 - [ThePrivatePanda](https://github.com/ThePrivatePanda) owns this organization and holds sole ownership for all code.
